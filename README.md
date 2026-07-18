@@ -80,4 +80,4 @@ Jenkins pipeline has 3 stages: Build, Test and Deploy.
 Author Information
 ------------------
 K.L.Harini
-Sytem Engineer/Devops Engineer
+Devops Engineer
